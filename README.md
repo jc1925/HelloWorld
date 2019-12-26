@@ -1,7 +1,7 @@
 ## Hello World App
 
 ### App Description
-This is a simple app that has a text field, a text box, and 3 buttons. You can use the text field to enter text for the text box, and use the 3 buttons to change update the text box's text, change the text box's text color, and change the background color. To restore to the original setting, simply tap on the background.
+This is a simple app that has a text field, a text box, and 3 buttons. You can use the text field to enter any text for the text box, and use the 3 buttons to change update the text box's text, change the text box's text color, and change the background color. To restore to the original setting, simply tap on the background.
 
 ### App Walk-though
 <img src="https://www.imgurupload.com/images/2019/12/25/hello-world-app-demo.gif" width=200><br>
